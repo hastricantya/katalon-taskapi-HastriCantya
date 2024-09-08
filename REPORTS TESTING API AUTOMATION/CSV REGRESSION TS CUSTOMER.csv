@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+REGRESSION TS KASIR - Customer,,,,08-09-2024 21:04:27,08-09-2024 21:04:31,4.483s,PASSED
+,,,,,,,
+Test Cases/TC KASIR - Customer/TC POST Customer,,,,08-09-2024 21:04:27,08-09-2024 21:04:30,3.175s,PASSED
+"sendRequestAndVerify(findTestObject(""KASIR - Customers/POST Add Customer""))",,,,08-09-2024 21:04:27,08-09-2024 21:04:30,2.924s,PASSED
+,,,,,,,
+Test Cases/TC KASIR - Customer/TC GET Customer,,,,08-09-2024 21:04:30,08-09-2024 21:04:30,0.432s,PASSED
+"sendRequestAndVerify(findTestObject(""KASIR - Customers/GET Customer"", [""customerId"":customerId]))",,,,08-09-2024 21:04:30,08-09-2024 21:04:30,0.317s,PASSED
+,,,,,,,
+Test Cases/TC KASIR - Customer/TC PUT Customer,,,,08-09-2024 21:04:30,08-09-2024 21:04:31,0.388s,PASSED
+"sendRequestAndVerify(findTestObject(""KASIR - Customers/PUT Customer""))",,,,08-09-2024 21:04:31,08-09-2024 21:04:31,0.262s,PASSED
+,,,,,,,
+Test Cases/TC KASIR - Customer/TC DELETE Customer,,,,08-09-2024 21:04:31,08-09-2024 21:04:31,0.292s,PASSED
+"sendRequestAndVerify(findTestObject(""KASIR - Customers/DELETE Customer""))",,,,08-09-2024 21:04:31,08-09-2024 21:04:31,0.218s,PASSED
