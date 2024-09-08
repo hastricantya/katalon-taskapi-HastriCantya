@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC GET Customer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c6090be-291e-481e-a857-5ef958225914</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d0035ad4-c7e0-43dd-8fc2-d9b210dd0d41</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'response'</defaultValue>
+      <description></description>
+      <id>d0035ad4-c7e0-43dd-8fc2-d9b210dd0d41</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

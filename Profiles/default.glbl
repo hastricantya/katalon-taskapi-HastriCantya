@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://kasir-api.zelz.my.id'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eccd54c8-7374-40e4-96c5-ca03f92a05e3'</initValue>
+      <name>customerId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'c5f0345c-6259-47e2-9c79-bbe8397e1ca4'</initValue>
+      <name>categoryId</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
