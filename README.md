@@ -24,5 +24,6 @@ D. There are 2 Test Suite that Hastri's made:
 1. Regression TS Customer
 2. Regression TS Categories
 
+E. There are reporting by html and csv for execution of Test Suites Customer and Categories in folder "REPORTING TESTING API AUTOMATION"
 
-E. Steps to try this automation using katalon: Click folder "KasirAPI" Or the other way, Open Katalon > New Project from version control/git > Click Clone Git > Copy link HTTPS this repository then paste it > Open folder Test Case > Click run
+F. Steps to try this automation using katalon: Click folder "KasirAPI" Or the other way, Open Katalon > New Project from version control/git > Click Clone Git > Copy link HTTPS this repository then paste it > Open folder Test Case > Click run
