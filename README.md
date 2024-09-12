@@ -18,7 +18,7 @@ C. There are several test case that Hastri's made:
 5. POST Add Categories (to add categories)
 6. GET Categories (to get information detail of categories that already posted)
 7. PUT Categories (to update information categories)
-8. DELETE Categories (tp delete categoreies)
+8. DELETE Categories (to delete categoreies)
 
 D. There are 2 Test Suite that Hastri's made:
 1. Regression TS Customer
